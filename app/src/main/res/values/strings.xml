@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAcraProject</string>
+    <string name="crash_message">Произошла ошибка. Отправка отчета</string>
+</resources>
